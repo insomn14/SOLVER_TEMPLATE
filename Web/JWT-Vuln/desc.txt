@@ -1,0 +1,7 @@
+Only Admin 2
+50
+Only the admin can get the flag! Again!
+
+128.199.104.41:25506
+
+

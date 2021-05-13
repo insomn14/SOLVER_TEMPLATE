@@ -1,0 +1,13 @@
+when PHP needs to compare the string “7 puppies” to the integer 7, PHP will attempt to extract the integer from the string. So this comparison will evaluate to True.
+> ("7 puppies" == 7) -> True
+But what if the string that is being compared does not contain an integer? The string will then be converted to a “0”. So the following comparison will also evaluate to True:
+> ("Puppies" == 0) -> True
+
+
+$> curl -X GET 'http://ctf.serangkota.go.id:9983/?text=bruh'
+<p>DiskoCTF{bruh_old_codebase}</p><!-- Source Code: ?source -->⏎
+
+
+
+Reference:
+- https://medium.com/swlh/php-type-juggling-vulnerabilities-3e28c4ed5c09

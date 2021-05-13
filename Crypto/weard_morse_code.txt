@@ -1,0 +1,17 @@
+To be honest this challenge did not require any skill. It was full guesswork.
+
+We get the following cipher :
+
+1101111102120222020120111110101222022221022202022211
+
+We replace the folowing :
+
+1 = - 0 = space 2 = .
+
+So we get :
+
+-- ----- .-. ... . -. ----- - -... ....- ... . ...--
+
+Which is morse code. After decoding it we get the flag.
+
+FLAG : tjctf{m0rsen0tb4se3}

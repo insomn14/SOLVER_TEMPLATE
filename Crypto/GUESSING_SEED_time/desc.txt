@@ -1,0 +1,7 @@
+Random Number Generator
+
+Dr. J created a fast pseudorandom number generator (prng) to randomly assign pairs for the upcoming group test. Austin really wants to know the pairs ahead of time... can you help him and predict the next output of Dr. J's prng?
+
+`nc challenges.ctfd.io 30264`
+
+['/files/9b6410a06d0b6f610c0cf0874f96a004/rand0.py?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOjI5MywiZmlsZV9pZCI6NjV9.X6Ddxw.Knu5IU2tx5xd29OsO2hM3GcLrqs']

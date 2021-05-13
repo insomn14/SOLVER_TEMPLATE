@@ -1,0 +1,4 @@
+Referensi : https://kod0kk.wordpress.com/2018/03/24/writeup-md5-140-angstromctf-2018/
+
+❯ curl -X GET http://128.199.104.41:27824/\?a\[\]\=240610708\&b\[\]\=0
+
