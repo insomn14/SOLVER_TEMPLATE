@@ -1,0 +1,18 @@
+1. Open 2 terminal
+
+2. Enter and run command down below on first terminal  
+user@ubuntu~$ qemu-arm -L /usr/arm-linux-gnueabihf -g 1234 ./FILE_ARM_BINARY
+
+3. Enter and run command down below on second terminal
+
+user@ubuntu~$ gdb-multiarch -q \
+  -ex 'set architecture arm' \
+  -ex 'set sysroot /usr/arm-linux-gnueabihf' \
+  -ex 'file FILE_ARM_BINARY' \
+  -ex 'target remote localhost:1234' \
+  -ex 'break 0x000_BREAKPOINT_ADDR' \
+;
+
+4. !DON'T FORGET TO CHANGE FILE_ARM_BINARY and BREAKPOINTS
+
+HAPPY REVERSING

@@ -1,0 +1,309 @@
+Apple
+Apricot
+Avocado
+Banana
+Bilberry
+Blackberry
+Blackcurrant
+Blueberry
+Boysenberry
+Currant
+Cherry
+Cherimoya
+Chico fruit
+Chicofruit
+Cloudberry
+Coconut
+Cranberry
+Cucumber
+Custard apple
+Custardapple
+Damson
+Date
+Dragonfruit
+Durian
+Elderberry
+Feijoa
+Fig
+Goji berry
+Gojiberry
+Gooseberry
+Grape
+Raisin
+Grapefruit
+Guava
+Honeyberry
+Huckleberry
+Jabuticaba
+Jackfruit
+Jambul
+Jujube
+Juniper berry
+Juniperberry
+Kiwano
+Kiwifruit
+Kumquat
+Lemon
+Lime
+Loquat
+Longan
+Lychee
+Mango
+Mangosteen
+Marionberry
+Melon
+Cantaloupe
+Honeydew
+Watermelon
+Miracle fruit
+Miraclefruit
+Mulberry
+Nectarine
+Nance
+Olive
+Orange
+Blood orange
+Bloodorange
+Clementine
+Mandarine
+Tangerine
+Papaya
+Passionfruit
+Peach
+Pear
+Persimmon
+Physalis
+Plantain
+Plum
+Prune
+Pineapple
+Plumcot
+Pomegranate
+Pomelo
+Purple mangosteen
+Purplemangosteen
+Quince
+Raspberry
+Salmonberry
+Rambutan
+Redcurrant
+Salal berry
+Salalberry
+Salak
+Satsuma
+Soursop
+Star fruit
+Solanum quitoense
+Solanumquitoense
+Strawberry
+Tamarillo
+Tamarind
+Ugli fruit
+Uglifruit
+Yuzu
+apple
+apricot
+avocado
+banana
+bilberry
+blackberry
+blackcurrant
+blueberry
+boysenberry
+currant
+cherry
+cherimoya
+chico fruit
+chicofruit
+cloudberry
+coconut
+cranberry
+cucumber
+custard apple
+custardapple
+damson
+date
+dragonfruit
+durian
+elderberry
+feijoa
+fig
+goji berry
+gojiberry
+gooseberry
+grape
+raisin
+grapefruit
+guava
+honeyberry
+huckleberry
+jabuticaba
+jackfruit
+jambul
+jujube
+juniper berry
+juniperberry
+kiwano
+kiwifruit
+kumquat
+lemon
+lime
+loquat
+longan
+lychee
+mango
+mangosteen
+marionberry
+melon
+cantaloupe
+honeydew
+watermelon
+miracle fruit
+miraclefruit
+mulberry
+nectarine
+nance
+olive
+orange
+blood orange
+bloodorange
+clementine
+mandarine
+tangerine
+papaya
+passionfruit
+peach
+pear
+persimmon
+physalis
+plantain
+plum
+prune
+pineapple
+plumcot
+pomegranate
+pomelo
+purple mangosteen
+purplemangosteen
+quince
+raspberry
+salmonberry
+rambutan
+redcurrant
+salal berry
+salalberry
+salak
+satsuma
+soursop
+star fruit
+solanum quitoense
+solanumquitoense
+strawberry
+tamarillo
+tamarind
+ugli fruit
+uglifruit
+yuzu
+APPLE
+APRICOT
+AVOCADO
+BANANA
+BILBERRY
+BLACKBERRY
+BLACKCURRANT
+BLUEBERRY
+BOYSENBERRY
+CURRANT
+CHERRY
+CHERIMOYA
+CHICO FRUIT
+CHICOFRUIT
+CLOUDBERRY
+COCONUT
+CRANBERRY
+CUCUMBER
+CUSTARD APPLE
+CUSTARDAPPLE
+DAMSON
+DATE
+DRAGONFRUIT
+DURIAN
+ELDERBERRY
+FEIJOA
+FIG
+GOJI BERRY
+GOJIBERRY
+GOOSEBERRY
+GRAPE
+RAISIN
+GRAPEFRUIT
+GUAVA
+HONEYBERRY
+HUCKLEBERRY
+JABUTICABA
+JACKFRUIT
+JAMBUL
+JUJUBE
+JUNIPER BERRY
+JUNIPERBERRY
+KIWANO
+KIWIFRUIT
+KUMQUAT
+LEMON
+LIME
+LOQUAT
+LONGAN
+LYCHEE
+MANGO
+MANGOSTEEN
+MARIONBERRY
+MELON
+CANTALOUPE
+HONEYDEW
+WATERMELON
+MIRACLE FRUIT
+MIRACLEFRUIT
+MULBERRY
+NECTARINE
+NANCE
+OLIVE
+ORANGE
+BLOOD ORANGE
+BLOODORANGE
+CLEMENTINE
+MANDARINE
+TANGERINE
+PAPAYA
+PASSIONFRUIT
+PEACH
+PEAR
+PERSIMMON
+PHYSALIS
+PLANTAIN
+PLUM
+PRUNE
+PINEAPPLE
+PLUMCOT
+POMEGRANATE
+POMELO
+PURPLE MANGOSTEEN
+PURPLEMANGOSTEEN
+QUINCE
+RASPBERRY
+SALMONBERRY
+RAMBUTAN
+REDCURRANT
+SALAL BERRY
+SALALBERRY
+SALAK
+SATSUMA
+SOURSOP
+STAR FRUIT
+SOLANUM QUITOENSE
+SOLANUMQUITOENSE
+STRAWBERRY
+TAMARILLO
+TAMARIND
+UGLI FRUIT
+UGLIFRUIT
+YUZU

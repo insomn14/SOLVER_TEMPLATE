@@ -1,0 +1,9 @@
+World Trip
+
+Will has been travelling the world! Here's a list of the coordinates of the places he's been to. There might be a secret message hidden in the first letter of all of the countries.
+
+Note: The flag is all uppercase without spaces or "_"
+
+-izhang05
+
+['/files/5d6dcdcc11b78754a20c6b85b7050e80/enc.txt?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOjI5MywiZmlsZV9pZCI6MTl9.X6Ddxw.54l3kZGHuEIXFvS_QkywbXFouZ8']

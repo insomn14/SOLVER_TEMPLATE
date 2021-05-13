@@ -1,0 +1,1 @@
+Binary accepts (via stdin) hexadecimal representation of the user "program" to be executed. Program contains the expected header, CRC of payload and payload itself. If header check or CRC check fails, program won't be executed. Flag was located in the root directory (/flag.txt) at the remote server.

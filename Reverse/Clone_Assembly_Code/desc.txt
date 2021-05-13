@@ -1,0 +1,8 @@
+Who's That? - 900pts
+
+Aku baru saja menemukan bahwa pacarku selingkuh! Bantu aku mencari tahu siapa wanita selingkuhan pacarku itu! Wrap your hexadecimal output with the format CSCCTF{hexadecimal}. The hexadecimal should be all in CAPITAL LETTERS, the 0x heading is not needed!<br>
+Author: darmads
+
+ Hint: []
+
+['/files/05ea5674872318c8d8f45648437c0599/girlfriend.asm?token=eyJ1c2VyX2lkIjo5LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjoyfQ.X8yfQw.-iU_Z-v_zwtq6Sm7Rt06DyFUVYI']

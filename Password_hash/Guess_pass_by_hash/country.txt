@@ -1,0 +1,933 @@
+Afghanistan
+Albania
+Algeria
+American Samoa
+AmericanSamoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua
+Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Herzegovina
+Botswana
+Bouvet Island
+BouvetIsland
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+BritishIndianOceanTerritory
+BruneiDarussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+CapeVerde
+CaymanIslands
+CentralAfricanRepublic
+Chad
+Chile
+China
+Christmas Island
+ChristmasIsland
+Cocos
+Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote D'ivoire
+CookIslands
+CostaRica
+CoteD'ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+CzechRepublic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+DominicanRepublic
+EastTimor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+ElSalvador
+EquatorialGuinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+FalklandIslands
+FaroeIslands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+FrenchGuiana
+FrenchPolynesia
+FrenchSouthernTerritories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-bissau
+Guineabissau
+Guyana
+Haiti
+Heard Island
+HeardIsland
+Mcdonald Islands
+McdonaldIslands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakstan
+Kenya
+Kiribati
+Korea
+Korea
+Kosovo
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+LaoPeople'sDemocraticRepublic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+LibyanArabJamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+MarshallIslands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+NetherlandsAntilles
+New Caledonia
+New Zealand
+NewCaledonia
+NewZealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+NorfolkIsland
+Northern Mariana Islands
+NorthernMarianaIslands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+PalestinianTerritory
+Panama
+Papua New Guinea
+PapuaNewGuinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+PuertoRico
+Qatar
+Reunion
+Romania
+Russian Federation
+RussianFederation
+Rwanda
+Saint Helena
+Saint Kitts
+SaintHelena
+SaintKitts
+Nevis
+Saint Lucia
+Saint Pierre
+SaintLucia
+SaintPierre
+Miquelon
+Saint Vincent
+The Grenadines
+SaintVincent
+TheGrenadines
+Samoa
+San Marino
+Sao Tome
+SanMarino
+SaoTome
+Principe
+Saudi Arabia
+SaudiArabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+SierraLeone
+Singapore
+Slovakia
+Slovenia
+Somalia
+Solomon Islands
+SolomonIslands
+South Africa
+South Georgia
+SouthAfrica
+SouthGeorgia
+The South Sandwich Islands
+TheSouthSandwichIslands
+Spain
+Sri Lanka
+SriLanka
+Sudan
+Suriname
+Svalbard
+Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+SyrianArabRepublic
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad
+Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks
+Caicos Islands
+CaicosIslands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+UnitedArabEmirates
+United Kingdom
+UnitedKingdom
+United States
+UnitedStates
+United States Minor Outlying Islands
+UnitedStatesMinorOutlyingIslands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Virgin Islands
+VirginIslands
+Wallis
+Futuna
+Western Sahara
+WesternSahara
+Yemen
+Zambia
+Zimbabwe
+afghanistan
+albania
+algeria
+american samoa
+americansamoa
+andorra
+angola
+anguilla
+antarctica
+antigua
+barbuda
+argentina
+armenia
+aruba
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bermuda
+bhutan
+bolivia
+bosnia
+herzegovina
+botswana
+bouvet island
+bouvetisland
+brazil
+british indian ocean territory
+brunei darussalam
+britishindianoceanterritory
+bruneidarussalam
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+cape verde
+cayman islands
+central african republic
+capeverde
+caymanislands
+centralafricanrepublic
+chad
+chile
+china
+christmas island
+christmasisland
+cocos
+islands
+colombia
+comoros
+congo
+cook islands
+costa rica
+cote d'ivoire
+cookislands
+costarica
+coted'ivoire
+croatia
+cuba
+cyprus
+czech republic
+czechrepublic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+dominicanrepublic
+easttimor
+ecuador
+egypt
+el salvador
+equatorial guinea
+elsalvador
+equatorialguinea
+eritrea
+estonia
+ethiopia
+falkland islands
+faroe islands
+falklandislands
+faroeislands
+fiji
+finland
+france
+french guiana
+french polynesia
+french southern territories
+frenchguiana
+frenchpolynesia
+frenchsouthernterritories
+gabon
+gambia
+georgia
+germany
+ghana
+gibraltar
+greece
+greenland
+grenada
+guadeloupe
+guam
+guatemala
+guinea
+guinea-bissau
+guineabissau
+guyana
+haiti
+heard island
+heardisland
+mcdonald islands
+mcdonaldislands
+holy see
+honduras
+hong kong
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+japan
+jordan
+kazakstan
+kenya
+kiribati
+korea
+korea
+kosovo
+kuwait
+kyrgyzstan
+lao people's democratic republic
+laopeople'sdemocraticrepublic
+latvia
+lebanon
+lesotho
+liberia
+libyan arab jamahiriya
+libyanarabjamahiriya
+liechtenstein
+lithuania
+luxembourg
+macau
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+marshallislands
+martinique
+mauritania
+mauritius
+mayotte
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montserrat
+montenegro
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+netherlands antilles
+netherlandsantilles
+new caledonia
+new zealand
+newcaledonia
+newzealand
+nicaragua
+niger
+nigeria
+niue
+norfolk island
+norfolkisland
+northern mariana islands
+northernmarianaislands
+norway
+oman
+pakistan
+palau
+palestinian territory
+palestinianterritory
+panama
+papua new guinea
+papuanewguinea
+paraguay
+peru
+philippines
+pitcairn
+poland
+portugal
+puerto rico
+puertorico
+qatar
+reunion
+romania
+russian federation
+russianfederation
+rwanda
+saint helena
+saint kitts
+sainthelena
+saintkitts
+nevis
+saint lucia
+saint pierre
+saintlucia
+saintpierre
+miquelon
+saint vincent
+the grenadines
+saintvincent
+thegrenadines
+samoa
+san marino
+sao tome
+sanmarino
+saotome
+principe
+saudi arabia
+saudiarabia
+senegal
+serbia
+seychelles
+sierra leone
+sierraleone
+singapore
+slovakia
+slovenia
+somalia
+solomon islands
+solomonislands
+south africa
+south georgia
+southafrica
+southgeorgia
+the south sandwich islands
+thesouthsandwichislands
+spain
+sri lanka
+srilanka
+sudan
+suriname
+svalbard
+jan mayen
+swaziland
+sweden
+switzerland
+syrian arab republic
+syrianarabrepublic
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tokelau
+tonga
+trinidad
+tobago
+tunisia
+turkey
+turkmenistan
+turks
+caicos islands
+caicosislands
+tuvalu
+uganda
+ukraine
+united arab emirates
+unitedarabemirates
+united kingdom
+unitedkingdom
+united states
+unitedstates
+united states minor outlying islands
+unitedstatesminoroutlyingislands
+uruguay
+uzbekistan
+vanuatu
+venezuela
+viet nam
+virgin islands
+virginislands
+wallis
+futuna
+western sahara
+westernsahara
+yemen
+zambia
+zimbabwe
+AFGHANISTAN
+ALBANIA
+ALGERIA
+AMERICAN SAMOA
+AMERICANSAMOA
+ANDORRA
+ANGOLA
+ANGUILLA
+ANTARCTICA
+ANTIGUA
+BARBUDA
+ARGENTINA
+ARMENIA
+ARUBA
+AUSTRALIA
+AUSTRIA
+AZERBAIJAN
+BAHAMAS
+BAHRAIN
+BANGLADESH
+BARBADOS
+BELARUS
+BELGIUM
+BELIZE
+BENIN
+BERMUDA
+BHUTAN
+BOLIVIA
+BOSNIA
+HERZEGOVINA
+BOTSWANA
+BOUVET ISLAND
+BOUVETISLAND
+BRAZIL
+BRITISH INDIAN OCEAN TERRITORY
+BRUNEI DARUSSALAM
+BRITISHINDIANOCEANTERRITORY
+BRUNEIDARUSSALAM
+BULGARIA
+BURKINA FASO
+BURUNDI
+CAMBODIA
+CAMEROON
+CANADA
+CAPE VERDE
+CAYMAN ISLANDS
+CENTRAL AFRICAN REPUBLIC
+CAPEVERDE
+CAYMANISLANDS
+CENTRALAFRICANREPUBLIC
+CHAD
+CHILE
+CHINA
+CHRISTMAS ISLAND
+CHRISTMASISLAND
+COCOS
+ISLANDS
+COLOMBIA
+COMOROS
+CONGO
+COOK ISLANDS
+COSTA RICA
+COTE D'IVOIRE
+COOKISLANDS
+COSTARICA
+COTED'IVOIRE
+CROATIA
+CUBA
+CYPRUS
+CZECH REPUBLIC
+CZECHREPUBLIC
+DENMARK
+DJIBOUTI
+DOMINICA
+DOMINICAN REPUBLIC
+EAST TIMOR
+DOMINICANREPUBLIC
+EASTTIMOR
+ECUADOR
+EGYPT
+EL SALVADOR
+EQUATORIAL GUINEA
+ELSALVADOR
+EQUATORIALGUINEA
+ERITREA
+ESTONIA
+ETHIOPIA
+FALKLAND ISLANDS
+FAROE ISLANDS
+FALKLANDISLANDS
+FAROEISLANDS
+FIJI
+FINLAND
+FRANCE
+FRENCH GUIANA
+FRENCH POLYNESIA
+FRENCH SOUTHERN TERRITORIES
+FRENCHGUIANA
+FRENCHPOLYNESIA
+FRENCHSOUTHERNTERRITORIES
+GABON
+GAMBIA
+GEORGIA
+GERMANY
+GHANA
+GIBRALTAR
+GREECE
+GREENLAND
+GRENADA
+GUADELOUPE
+GUAM
+GUATEMALA
+GUINEA
+GUINEA-BISSAU
+GUINEABISSAU
+GUYANA
+HAITI
+HEARD ISLAND
+HEARDISLAND
+MCDONALD ISLANDS
+MCDONALDISLANDS
+HOLY SEE
+HONDURAS
+HONG KONG
+HUNGARY
+ICELAND
+INDIA
+INDONESIA
+IRAN
+IRAQ
+IRELAND
+ISRAEL
+ITALY
+JAMAICA
+JAPAN
+JORDAN
+KAZAKSTAN
+KENYA
+KIRIBATI
+KOREA
+KOREA
+KOSOVO
+KUWAIT
+KYRGYZSTAN
+LAO PEOPLE'S DEMOCRATIC REPUBLIC
+LAOPEOPLE'SDEMOCRATICREPUBLIC
+LATVIA
+LEBANON
+LESOTHO
+LIBERIA
+LIBYAN ARAB JAMAHIRIYA
+LIBYANARABJAMAHIRIYA
+LIECHTENSTEIN
+LITHUANIA
+LUXEMBOURG
+MACAU
+MACEDONIA
+MADAGASCAR
+MALAWI
+MALAYSIA
+MALDIVES
+MALI
+MALTA
+MARSHALL ISLANDS
+MARSHALLISLANDS
+MARTINIQUE
+MAURITANIA
+MAURITIUS
+MAYOTTE
+MEXICO
+MICRONESIA
+MOLDOVA
+MONACO
+MONGOLIA
+MONTSERRAT
+MONTENEGRO
+MOROCCO
+MOZAMBIQUE
+MYANMAR
+NAMIBIA
+NAURU
+NEPAL
+NETHERLANDS
+NETHERLANDS ANTILLES
+NETHERLANDSANTILLES
+NEW CALEDONIA
+NEW ZEALAND
+NEWCALEDONIA
+NEWZEALAND
+NICARAGUA
+NIGER
+NIGERIA
+NIUE
+NORFOLK ISLAND
+NORFOLKISLAND
+NORTHERN MARIANA ISLANDS
+NORTHERNMARIANAISLANDS
+NORWAY
+OMAN
+PAKISTAN
+PALAU
+PALESTINIAN TERRITORY
+PALESTINIANTERRITORY
+PANAMA
+PAPUA NEW GUINEA
+PAPUANEWGUINEA
+PARAGUAY
+PERU
+PHILIPPINES
+PITCAIRN
+POLAND
+PORTUGAL
+PUERTO RICO
+PUERTORICO
+QATAR
+REUNION
+ROMANIA
+RUSSIAN FEDERATION
+RUSSIANFEDERATION
+RWANDA
+SAINT HELENA
+SAINT KITTS
+SAINTHELENA
+SAINTKITTS
+NEVIS
+SAINT LUCIA
+SAINT PIERRE
+SAINTLUCIA
+SAINTPIERRE
+MIQUELON
+SAINT VINCENT
+THE GRENADINES
+SAINTVINCENT
+THEGRENADINES
+SAMOA
+SAN MARINO
+SAO TOME
+SANMARINO
+SAOTOME
+PRINCIPE
+SAUDI ARABIA
+SAUDIARABIA
+SENEGAL
+SERBIA
+SEYCHELLES
+SIERRA LEONE
+SIERRALEONE
+SINGAPORE
+SLOVAKIA
+SLOVENIA
+SOMALIA
+SOLOMON ISLANDS
+SOLOMONISLANDS
+SOUTH AFRICA
+SOUTH GEORGIA
+SOUTHAFRICA
+SOUTHGEORGIA
+THE SOUTH SANDWICH ISLANDS
+THESOUTHSANDWICHISLANDS
+SPAIN
+SRI LANKA
+SRILANKA
+SUDAN
+SURINAME
+SVALBARD
+JAN MAYEN
+SWAZILAND
+SWEDEN
+SWITZERLAND
+SYRIAN ARAB REPUBLIC
+SYRIANARABREPUBLIC
+TAIWAN
+TAJIKISTAN
+TANZANIA
+THAILAND
+TOGO
+TOKELAU
+TONGA
+TRINIDAD
+TOBAGO
+TUNISIA
+TURKEY
+TURKMENISTAN
+TURKS
+CAICOS ISLANDS
+CAICOSISLANDS
+TUVALU
+UGANDA
+UKRAINE
+UNITED ARAB EMIRATES
+UNITEDARABEMIRATES
+UNITED KINGDOM
+UNITEDKINGDOM
+UNITED STATES
+UNITEDSTATES
+UNITED STATES MINOR OUTLYING ISLANDS
+UNITEDSTATESMINOROUTLYINGISLANDS
+URUGUAY
+UZBEKISTAN
+VANUATU
+VENEZUELA
+VIET NAM
+VIRGIN ISLANDS
+VIRGINISLANDS
+WALLIS
+FUTUNA
+WESTERN SAHARA
+WESTERNSAHARA
+YEMEN
+ZAMBIA
+ZIMBABWE
